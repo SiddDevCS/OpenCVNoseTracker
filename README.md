@@ -40,25 +40,6 @@ pip install opencv-python mediapipe numpy
    - The dot will pulse and change colors dynamically as your nose moves.
 
 6. Press **Esc** to exit the program.
-
-## **How It Works**
-
-- **MediaPipe Face Mesh**: It detects **468 landmarks** on your face, with **landmark 1** being the **tip of your nose**.
-- **Glowing Dot**: The dot’s size **pulses** based on a sine wave, and its **color** changes depending on the nose position.
-- The **overlay effect** uses transparency and weighted blending to create a glowing aura around the dot.
-
-## **Customization Ideas**
-Feel free to modify and add more features to this project:
-- **Add more effects** like animated filters (smiles, eyebrows).
-- **Change the shape** of the dot or replace it with a custom image.
-- **Save screenshots** when a key is pressed, or even record a video.
-- Add different tracking points for **eyes** or **mouth** to apply additional effects.
-
-## **Credits**
-- **OpenCV**: For real-time computer vision and image manipulation.
-- **MediaPipe**: For the face mesh detection and tracking.
-- **Python**: For building the whole system.
-
 ---
 
 ---
