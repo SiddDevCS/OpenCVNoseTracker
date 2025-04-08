@@ -40,8 +40,3 @@ pip install opencv-python mediapipe numpy
    - The dot will pulse and change colors dynamically as your nose moves.
 
 6. Press **Esc** to exit the program.
----
-
----
-
-Let me know if you need help customizing or making the README even more awesome!
